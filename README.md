@@ -1,11 +1,18 @@
 # cloneTwitter-VueAndTailwindCss
 
-Link Example : https://clonetwitter-vue-tailwindcss.web.app/
+Link : https://clonetwitter-vue-tailwindcss.web.app/
 
 ```
-//Run development
-yarn dev
+Install node_modules :
+Yarn install
+```
 
-//Run production
+```
+Run dev :
+yarn dev
+```
+
+```
+Build app:
 yarn build
 ```
